@@ -1,0 +1,1621 @@
+{
+  "rpm": [
+    {
+      "file_extension": "rpm",
+      "offset": "0",
+      "ascii": "....",
+      "hex": "ed ab ee db",
+      "description": "RedHat Package Manager (RPM) package"
+    }
+  ],
+  "bin": [
+    {
+      "file_extension": "bin",
+      "offset": "0",
+      "ascii": "SP01",
+      "hex": "53 50 30 31",
+      "description": "Amazon Kindle Update Package"
+    }
+  ],
+  "pif": [
+    {
+      "file_extension": "PIF",
+      "offset": "0",
+      "ascii": ".",
+      "hex": "00 nn",
+      "description": "WindowsProgram Information File"
+    }
+  ],
+  "sea": [
+    {
+      "file_extension": "SEA",
+      "offset": "0",
+      "ascii": ".",
+      "hex": "00 nn",
+      "description": "MacStuffit Self-Extracting Archive"
+    }
+  ],
+  "ytr": [
+    {
+      "file_extension": "YTR",
+      "offset": "0",
+      "ascii": ".",
+      "hex": "00 nn",
+      "description": "IRISOCR data file"
+    }
+  ],
+  "pic": [
+    {
+      "file_extension": "PIC",
+      "offset": "0",
+      "ascii": ".",
+      "hex": "00 nn",
+      "description": "IBM Storyboard bitmap file"
+    }
+  ],
+  "pdb": [
+    {
+      "file_extension": "PDB",
+      "offset": "11",
+      "ascii": "........ ........ ........",
+      "hex": "00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 0000",
+      "description": "PalmPilot Database/Document File"
+    }
+  ],
+  "dba": [
+    {
+      "file_extension": "DBA",
+      "offset": "0",
+      "ascii": "...",
+      "hex": "BE BA FE CA",
+      "description": "Palm Desktop Calendar Archive"
+    },
+    {
+      "file_extension": "DBA",
+      "offset": "0",
+      "ascii": "..BD",
+      "hex": "00 01 42 44",
+      "description": "Palm Desktop To Do Archive"
+    }
+  ],
+  "tda": [
+    {
+      "file_extension": "TDA",
+      "offset": "0",
+      "ascii": "..DT",
+      "hex": "00 01 44 54",
+      "description": "Palm Desktop Calendar Archive"
+    }
+  ],
+  "other": [
+    {
+      "file_extension": "",
+      "offset": "0",
+      "ascii": "...",
+      "hex": "00 01 00 00",
+      "description": "Palm Desktop Data File (Access format)"
+    },
+    {
+      "file_extension": "",
+      "offset": "0",
+      "ascii": "RNC.",
+      "hex": "52 4E 43 01 52 4E 43 02",
+      "description": "Compressed file usingRob Northen Compression (version 1 and 2) algorithm"
+    },
+    {
+      "file_extension": "",
+      "offset": "0",
+      "ascii": ".ELF",
+      "hex": "7F 45 4C 46",
+      "description": "Executable and Linkable Format"
+    },
+    {
+      "file_extension": "",
+      "offset": "0",
+      "ascii": "ï»¿",
+      "hex": "EF BB BF",
+      "description": "UTF-8 encodedUnicodebyte order mark, commonly seen in text files."
+    },
+    {
+      "file_extension": "",
+      "offset": "0",
+      "ascii": "........",
+      "hex": "FE ED FA CE",
+      "description": "Mach-O binary (32-bit)"
+    },
+    {
+      "file_extension": "",
+      "offset": "0x1000",
+      "ascii": "........",
+      "hex": "FE ED FA CE",
+      "description": "Mach-O binary (32-bit)"
+    },
+    {
+      "file_extension": "",
+      "offset": "0",
+      "ascii": "........",
+      "hex": "FE ED FA CF",
+      "description": "Mach-O binary (64-bit)"
+    },
+    {
+      "file_extension": "",
+      "offset": "0x1000",
+      "ascii": "........",
+      "hex": "FE ED FA CF",
+      "description": "Mach-O binary (64-bit)"
+    },
+    {
+      "file_extension": "",
+      "offset": "0",
+      "ascii": "........",
+      "hex": "CE FA ED FE",
+      "description": "Mach-O binary (reverse byte ordering scheme, 32-bit)"
+    },
+    {
+      "file_extension": "",
+      "offset": "0",
+      "ascii": "........",
+      "hex": "CF FA ED FE",
+      "description": "Mach-O binary (reverse byte ordering scheme, 64-bit)"
+    },
+    {
+      "file_extension": "",
+      "offset": "0",
+      "ascii": "..",
+      "hex": "FF FE",
+      "description": "Byte-order mark for text file encoded inlittle-endian16-bit Unicode Transfer Format"
+    },
+    {
+      "file_extension": "",
+      "offset": "0",
+      "ascii": "....",
+      "hex": "FF FE 00 00",
+      "description": "Byte-order mark for text file encoded in little-endian32-bit Unicode Transfer Format"
+    },
+    {
+      "file_extension": "",
+      "offset": "0",
+      "ascii": "$SDI0001",
+      "hex": "24 53 44 49 30 30 30 31",
+      "description": "System Deployment Image, a disk image format used byMicrosoft"
+    },
+    {
+      "file_extension": "",
+      "offset": "0",
+      "ascii": "DCM PA30",
+      "hex": "44 43 4D 01 50 41 33 30",
+      "description": "Windows UpdateBinary Delta Compression"
+    },
+    {
+      "file_extension": "",
+      "offset": "",
+      "ascii": "WEBP",
+      "hex": "57 45 42 50",
+      "description": ""
+    },
+    {
+      "file_extension": "",
+      "offset": "0",
+      "ascii": "'..V",
+      "hex": "27 05 19 56",
+      "description": "U-Boot / uImage.Das_U-Boot Universal Boot Loader."
+    }
+  ],
+  "ico": [
+    {
+      "file_extension": "ico",
+      "offset": "0",
+      "ascii": "....",
+      "hex": "00 00 01 00",
+      "description": "Computer icon encoded inICO file format"
+    }
+  ],
+  "3gp": [
+    {
+      "file_extension": "3gp",
+      "offset": "4",
+      "ascii": "ftyp 3g",
+      "hex": "66 74 79 70 33 67",
+      "description": "3rd Generation Partnership Project3GPP"
+    }
+  ],
+  "3g2": [
+    {
+      "file_extension": "3g2",
+      "offset": "4",
+      "ascii": "ftyp 3g",
+      "hex": "66 74 79 70 33 67",
+      "description": "3GPP2 multimedia files"
+    }
+  ],
+  "z": [
+    {
+      "file_extension": "z",
+      "offset": "0",
+      "ascii": "..",
+      "hex": "1F 9D",
+      "description": "compressed file (often tar zip)"
+    },
+    {
+      "file_extension": "z",
+      "offset": "0",
+      "ascii": "..",
+      "hex": "1F A0",
+      "description": "Compressed file (often tar zip)"
+    }
+  ],
+  "tar.z": [
+    {
+      "file_extension": "tar.z",
+      "offset": "0",
+      "ascii": "..",
+      "hex": "1F 9D",
+      "description": "usingLempel-Ziv-Welch algorithm"
+    },
+    {
+      "file_extension": "tar.z",
+      "offset": "0",
+      "ascii": "..",
+      "hex": "1F A0",
+      "description": "usingLZH algorithm"
+    }
+  ],
+  "bac": [
+    {
+      "file_extension": "bac",
+      "offset": "0",
+      "ascii": "BACKMIKE DISK",
+      "hex": "42 41 43 4B 4D 49 4B 45 44 49 53 4B",
+      "description": "File ortape containing abackup done withAmiBack on an Amiga. It typically is paired with an index file (idx) with the table of contents."
+    }
+  ],
+  "bz2": [
+    {
+      "file_extension": "bz2",
+      "offset": "0",
+      "ascii": "BZh",
+      "hex": "42 5A 68",
+      "description": "Compressed file usingBzip2 algorithm"
+    }
+  ],
+  "gif": [
+    {
+      "file_extension": "gif",
+      "offset": "0",
+      "ascii": "GIF87aGIF89a",
+      "hex": "47 49 46 38 37 61 47 49 46 38 39 61",
+      "description": "Image file encoded in theGraphics Interchange Format (GIF)"
+    }
+  ],
+  "tif": [
+    {
+      "file_extension": "tif",
+      "offset": "0",
+      "ascii": "II*.MM.*",
+      "hex": "49 49 2A 00",
+      "description": "Tagged Image File Format (little endian format)"
+    },
+    {
+      "file_extension": "tif",
+      "offset": "0",
+      "ascii": "II*.MM.*",
+      "hex": "4D 4D 00 2A",
+      "description": "Tagged Image File Format (big endian format)"
+    }
+  ],
+  "tiff": [
+    {
+      "file_extension": "tiff",
+      "offset": "0",
+      "ascii": "II*.MM.*",
+      "hex": "49 49 2A 00",
+      "description": "Tagged Image File Format (little endian format)"
+    },
+    {
+      "file_extension": "tiff",
+      "offset": "0",
+      "ascii": "II*.MM.*",
+      "hex": "4D 4D 00 2A",
+      "description": "Tagged Image File Format (big endian format)"
+    }
+  ],
+  "cr2": [
+    {
+      "file_extension": "cr2",
+      "offset": "0",
+      "ascii": "II*..... CR",
+      "hex": "49 49 2A 00 10 00 00 00 43 52",
+      "description": "Canon's RAW format is based on the TIFF file format"
+    },
+    {
+      "file_extension": "cr2",
+      "offset": "0",
+      "ascii": "II*..... CR",
+      "hex": "49 49 2A 00 10 00 00 00 43 52",
+      "description": "Canon RAW Format Version 2"
+    }
+  ],
+  "cin": [
+    {
+      "file_extension": "cin",
+      "offset": "0",
+      "ascii": ".*_.",
+      "hex": "80 2A 5F D7",
+      "description": "KodakCineon image"
+    }
+  ],
+  "dpx": [
+    {
+      "file_extension": "dpx",
+      "offset": "0",
+      "ascii": "SDPXXPDS",
+      "hex": "53 44 50 58",
+      "description": "SMPTEDPX image (big endian format)"
+    },
+    {
+      "file_extension": "dpx",
+      "offset": "0",
+      "ascii": "SDPXXPDS",
+      "hex": "58 50 44 53",
+      "description": "SMPTEDPX image (little endian format)"
+    }
+  ],
+  "exr": [
+    {
+      "file_extension": "exr",
+      "offset": "0",
+      "ascii": "v/1.",
+      "hex": "76 2F 31 01",
+      "description": "OpenEXR image"
+    }
+  ],
+  "bpg": [
+    {
+      "file_extension": "bpg",
+      "offset": "0",
+      "ascii": "BPGû",
+      "hex": "42 50 47 FB",
+      "description": "Better Portable Graphics format"
+    }
+  ],
+  "jpg": [
+    {
+      "file_extension": "jpg",
+      "offset": "0",
+      "ascii": "ÿØÿÛ",
+      "hex": "FF D8 FF DB",
+      "description": "JPEG raw or in theJFIF orExif file format"
+    },
+    {
+      "file_extension": "jpg",
+      "offset": "0",
+      "ascii": "ÿØÿà ..J F IF..",
+      "hex": "FF D8 FF E0 nn nn 4A 46 49 46 00 01",
+      "description": "JPEG raw or in theJFIF orExif file format"
+    },
+    {
+      "file_extension": "jpg",
+      "offset": "0",
+      "ascii": "ÿØÿá ..E x if..",
+      "hex": "FF D8 FF E1 nn nn 45 78 69 66 00 00",
+      "description": "JPEG raw or in theJFIF orExif file format"
+    }
+  ],
+  "jpeg": [
+    {
+      "file_extension": "jpeg",
+      "offset": "0",
+      "ascii": "ÿØÿÛ",
+      "hex": "FF D8 FF DB",
+      "description": "JPEG raw or in theJFIF orExif file format"
+    },
+    {
+      "file_extension": "jpeg",
+      "offset": "0",
+      "ascii": "ÿØÿà ..J F IF..",
+      "hex": "FF D8 FF E0 nn nn 4A 46 49 46 00 01",
+      "description": "JPEG raw or in theJFIF orExif file format"
+    },
+    {
+      "file_extension": "jpeg",
+      "offset": "0",
+      "ascii": "ÿØÿá ..E x if..",
+      "hex": "FF D8 FF E1 nn nn 45 78 69 66 00 00",
+      "description": "JPEG raw or in theJFIF orExif file format"
+    }
+  ],
+  "ilbm": [
+    {
+      "file_extension": "ilbm",
+      "offset": "any",
+      "ascii": "FORM.... ILBM",
+      "hex": "46 4F 52 4D nn nn nn nn 49 4C 42 4D",
+      "description": "IFFInterleaved Bitmap Image"
+    }
+  ],
+  "lbm": [
+    {
+      "file_extension": "lbm",
+      "offset": "any",
+      "ascii": "FORM.... ILBM",
+      "hex": "46 4F 52 4D nn nn nn nn 49 4C 42 4D",
+      "description": "IFFInterleaved Bitmap Image"
+    }
+  ],
+  "ibm": [
+    {
+      "file_extension": "ibm",
+      "offset": "any",
+      "ascii": "FORM.... ILBM",
+      "hex": "46 4F 52 4D nn nn nn nn 49 4C 42 4D",
+      "description": "IFFInterleaved Bitmap Image"
+    }
+  ],
+  "iff": [
+    {
+      "file_extension": "iff",
+      "offset": "any",
+      "ascii": "FORM.... ILBM",
+      "hex": "46 4F 52 4D nn nn nn nn 49 4C 42 4D",
+      "description": "IFFInterleaved Bitmap Image"
+    },
+    {
+      "file_extension": "iff",
+      "offset": "any",
+      "ascii": "FORM.... 8SVX",
+      "hex": "46 4F 52 4D nn nn nn nn 38 53 56 58",
+      "description": "IFF8-Bit Sampled Voice"
+    },
+    {
+      "file_extension": "iff",
+      "offset": "any",
+      "ascii": "FORM.... ACBM",
+      "hex": "46 4F 52 4D nn nn nn nn 41 43 42 4D",
+      "description": "Amiga Contiguous Bitmap"
+    },
+    {
+      "file_extension": "iff",
+      "offset": "any",
+      "ascii": "FORM.... ANBM",
+      "hex": "46 4F 52 4D nn nn nn nn 41 4E 42 4D",
+      "description": "IFFAnimated Bitmap"
+    },
+    {
+      "file_extension": "iff",
+      "offset": "any",
+      "ascii": "FORM.... ANIM",
+      "hex": "46 4F 52 4D nn nn nn nn 41 4E 49 4D",
+      "description": "IFFCEL Animation"
+    },
+    {
+      "file_extension": "iff",
+      "offset": "any",
+      "ascii": "FORM.... FAXX",
+      "hex": "46 4F 52 4D nn nn nn nn 46 41 58 58",
+      "description": "IFFFacsimile Image"
+    },
+    {
+      "file_extension": "iff",
+      "offset": "any",
+      "ascii": "FORM.... FTXT",
+      "hex": "46 4F 52 4D nn nn nn nn 46 54 58 54",
+      "description": "IFFFormatted Text"
+    },
+    {
+      "file_extension": "iff",
+      "offset": "any",
+      "ascii": "FORM.... SMUS",
+      "hex": "46 4F 52 4D nn nn nn nn 53 4D 55 53",
+      "description": "IFFSimple Musical Score"
+    },
+    {
+      "file_extension": "iff",
+      "offset": "any",
+      "ascii": "FORM.... CMUS",
+      "hex": "46 4F 52 4D nn nn nn nn 43 4D 55 53",
+      "description": "IFFMusical Score"
+    },
+    {
+      "file_extension": "iff",
+      "offset": "any",
+      "ascii": "FORM.... YUVN",
+      "hex": "46 4F 52 4D nn nn nn nn 59 55 56 4E",
+      "description": "IFFYUV Image"
+    },
+    {
+      "file_extension": "iff",
+      "offset": "any",
+      "ascii": "FORM.... FANT",
+      "hex": "46 4F 52 4D nn nn nn nn 46 41 4E 54",
+      "description": "AmigaFantavision Movie"
+    },
+    {
+      "file_extension": "iff",
+      "offset": "any",
+      "ascii": "FORM.... AIFF",
+      "hex": "46 4F 52 4D nn nn nn nn 41 49 46 46",
+      "description": "Audio Interchange File Format"
+    }
+  ],
+  "8svx": [
+    {
+      "file_extension": "8svx",
+      "offset": "any",
+      "ascii": "FORM.... 8SVX",
+      "hex": "46 4F 52 4D nn nn nn nn 38 53 56 58",
+      "description": "IFF8-Bit Sampled Voice"
+    }
+  ],
+  "8sv": [
+    {
+      "file_extension": "8sv",
+      "offset": "any",
+      "ascii": "FORM.... 8SVX",
+      "hex": "46 4F 52 4D nn nn nn nn 38 53 56 58",
+      "description": "IFF8-Bit Sampled Voice"
+    }
+  ],
+  "svx": [
+    {
+      "file_extension": "svx",
+      "offset": "any",
+      "ascii": "FORM.... 8SVX",
+      "hex": "46 4F 52 4D nn nn nn nn 38 53 56 58",
+      "description": "IFF8-Bit Sampled Voice"
+    }
+  ],
+  "snd": [
+    {
+      "file_extension": "snd",
+      "offset": "any",
+      "ascii": "FORM.... 8SVX",
+      "hex": "46 4F 52 4D nn nn nn nn 38 53 56 58",
+      "description": "IFF8-Bit Sampled Voice"
+    },
+    {
+      "file_extension": "snd",
+      "offset": "any",
+      "ascii": "FORM.... AIFF",
+      "hex": "46 4F 52 4D nn nn nn nn 41 49 46 46",
+      "description": "Audio Interchange File Format"
+    }
+  ],
+  "acbm": [
+    {
+      "file_extension": "acbm",
+      "offset": "any",
+      "ascii": "FORM.... ACBM",
+      "hex": "46 4F 52 4D nn nn nn nn 41 43 42 4D",
+      "description": "Amiga Contiguous Bitmap"
+    }
+  ],
+  "anbm": [
+    {
+      "file_extension": "anbm",
+      "offset": "any",
+      "ascii": "FORM.... ANBM",
+      "hex": "46 4F 52 4D nn nn nn nn 41 4E 42 4D",
+      "description": "IFFAnimated Bitmap"
+    }
+  ],
+  "anim": [
+    {
+      "file_extension": "anim",
+      "offset": "any",
+      "ascii": "FORM.... ANIM",
+      "hex": "46 4F 52 4D nn nn nn nn 41 4E 49 4D",
+      "description": "IFFCEL Animation"
+    }
+  ],
+  "faxx": [
+    {
+      "file_extension": "faxx",
+      "offset": "any",
+      "ascii": "FORM.... FAXX",
+      "hex": "46 4F 52 4D nn nn nn nn 46 41 58 58",
+      "description": "IFFFacsimile Image"
+    },
+    {
+      "file_extension": "faxx",
+      "offset": "any",
+      "ascii": "FORM.... FAXX",
+      "hex": "46 4F 52 4D nn nn nn nn 46 41 58 58",
+      "description": "IFFFacsimile Image"
+    }
+  ],
+  "ftxt": [
+    {
+      "file_extension": "ftxt",
+      "offset": "any",
+      "ascii": "FORM.... FTXT",
+      "hex": "46 4F 52 4D nn nn nn nn 46 54 58 54",
+      "description": "IFFFormatted Text"
+    }
+  ],
+  "txt": [
+    {
+      "file_extension": "txt",
+      "offset": "any",
+      "ascii": "FORM.... FTXT",
+      "hex": "46 4F 52 4D nn nn nn nn 46 54 58 54",
+      "description": "IFFFormatted Text"
+    }
+  ],
+  "smus": [
+    {
+      "file_extension": "smus",
+      "offset": "any",
+      "ascii": "FORM.... SMUS",
+      "hex": "46 4F 52 4D nn nn nn nn 53 4D 55 53",
+      "description": "IFFSimple Musical Score"
+    }
+  ],
+  "smu": [
+    {
+      "file_extension": "smu",
+      "offset": "any",
+      "ascii": "FORM.... SMUS",
+      "hex": "46 4F 52 4D nn nn nn nn 53 4D 55 53",
+      "description": "IFFSimple Musical Score"
+    }
+  ],
+  "mus": [
+    {
+      "file_extension": "mus",
+      "offset": "any",
+      "ascii": "FORM.... SMUS",
+      "hex": "46 4F 52 4D nn nn nn nn 53 4D 55 53",
+      "description": "IFFSimple Musical Score"
+    },
+    {
+      "file_extension": "mus",
+      "offset": "any",
+      "ascii": "FORM.... CMUS",
+      "hex": "46 4F 52 4D nn nn nn nn 43 4D 55 53",
+      "description": "IFFMusical Score"
+    }
+  ],
+  "cmus": [
+    {
+      "file_extension": "cmus",
+      "offset": "any",
+      "ascii": "FORM.... CMUS",
+      "hex": "46 4F 52 4D nn nn nn nn 43 4D 55 53",
+      "description": "IFFMusical Score"
+    }
+  ],
+  "yuvn": [
+    {
+      "file_extension": "yuvn",
+      "offset": "any",
+      "ascii": "FORM.... YUVN",
+      "hex": "46 4F 52 4D nn nn nn nn 59 55 56 4E",
+      "description": "IFFYUV Image"
+    }
+  ],
+  "yuv": [
+    {
+      "file_extension": "yuv",
+      "offset": "any",
+      "ascii": "FORM.... YUVN",
+      "hex": "46 4F 52 4D nn nn nn nn 59 55 56 4E",
+      "description": "IFFYUV Image"
+    }
+  ],
+  "aiff": [
+    {
+      "file_extension": "aiff",
+      "offset": "any",
+      "ascii": "FORM.... AIFF",
+      "hex": "46 4F 52 4D nn nn nn nn 41 49 46 46",
+      "description": "Audio Interchange File Format"
+    }
+  ],
+  "aif": [
+    {
+      "file_extension": "aif",
+      "offset": "any",
+      "ascii": "FORM.... AIFF",
+      "hex": "46 4F 52 4D nn nn nn nn 41 49 46 46",
+      "description": "Audio Interchange File Format"
+    }
+  ],
+  "aifc": [
+    {
+      "file_extension": "aifc",
+      "offset": "any",
+      "ascii": "FORM.... AIFF",
+      "hex": "46 4F 52 4D nn nn nn nn 41 49 46 46",
+      "description": "Audio Interchange File Format"
+    }
+  ],
+  "idx": [
+    {
+      "file_extension": "idx",
+      "offset": "0",
+      "ascii": "INDX",
+      "hex": "49 4E 44 58",
+      "description": "Index file to a file ortape containing abackup done withAmiBack on anAmiga."
+    }
+  ],
+  "lz": [
+    {
+      "file_extension": "lz",
+      "offset": "0",
+      "ascii": "LZIP",
+      "hex": "4C 5A 49 50",
+      "description": "lzip compressed file"
+    }
+  ],
+  "exe": [
+    {
+      "file_extension": "exe",
+      "offset": "0",
+      "ascii": "MZ",
+      "hex": "4D 5A",
+      "description": "DOS MZ executable file format and its descendants (includingNE andPE)"
+    }
+  ],
+  "zip": [
+    {
+      "file_extension": "zip",
+      "offset": "0",
+      "ascii": "PK..",
+      "hex": "50 4B 03 04",
+      "description": "zip file format and formats based on it, such asJAR,ODF,OOXML"
+    },
+    {
+      "file_extension": "zip",
+      "offset": "0",
+      "ascii": "PK..",
+      "hex": "50 4B 05 06",
+      "description": "zip file format and formats based on it, such asJAR,ODF,OOXML (empty archive)"
+    },
+    {
+      "file_extension": "zip",
+      "offset": "0",
+      "ascii": "PK..",
+      "hex": "50 4B 07 08",
+      "description": "zip file format and formats based on it, such asJAR,ODF,OOXML (spanned archive)"
+    }
+  ],
+  "jar": [
+    {
+      "file_extension": "jar",
+      "offset": "0",
+      "ascii": "PK..",
+      "hex": "50 4B 03 04",
+      "description": "zip file format and formats based on it, such asJAR,ODF,OOXML"
+    },
+    {
+      "file_extension": "jar",
+      "offset": "0",
+      "ascii": "PK..",
+      "hex": "50 4B 05 06",
+      "description": "zip file format and formats based on it, such asJAR,ODF,OOXML (empty archive)"
+    },
+    {
+      "file_extension": "jar",
+      "offset": "0",
+      "ascii": "PK..",
+      "hex": "50 4B 07 08",
+      "description": "zip file format and formats based on it, such asJAR,ODF,OOXML (spanned archive)"
+    }
+  ],
+  "odt": [
+    {
+      "file_extension": "odt",
+      "offset": "0",
+      "ascii": "PK..",
+      "hex": "50 4B 03 04",
+      "description": "zip file format and formats based on it, such as JAR,ODF,OOXML"
+    },
+    {
+      "file_extension": "odt",
+      "offset": "0",
+      "ascii": "PK..",
+      "hex": "50 4B 05 06",
+      "description": "zip file format and formats based on it, such as JAR,ODF,OOXML (empty archive)"
+    },
+    {
+      "file_extension": "odt",
+      "offset": "0",
+      "ascii": "PK..",
+      "hex": "50 4B 07 08",
+      "description": "zip file format and formats based on it, such as JAR,ODF,OOXML (spanned archive)"
+    }
+  ],
+  "ods": [
+    {
+      "file_extension": "ods",
+      "offset": "0",
+      "ascii": "PK..",
+      "hex": "50 4B 03 04",
+      "description": "zip file format and formats based on it, such asJAR,ODF,OOXML"
+    },
+    {
+      "file_extension": "ods",
+      "offset": "0",
+      "ascii": "PK..",
+      "hex": "50 4B 05 06",
+      "description": "zip file format and formats based on it, such asJAR,ODF,OOXML (empty archive)"
+    },
+    {
+      "file_extension": "ods",
+      "offset": "0",
+      "ascii": "PK..",
+      "hex": "50 4B 07 08",
+      "description": "zip file format and formats based on it, such asJAR,ODF,OOXML (spanned archive)"
+    }
+  ],
+  "odp": [
+    {
+      "file_extension": "odp",
+      "offset": "0",
+      "ascii": "PK..",
+      "hex": "50 4B 03 04",
+      "description": "zip file format and formats based on it, such asJAR,ODF,OOXML"
+    },
+    {
+      "file_extension": "odp",
+      "offset": "0",
+      "ascii": "PK..",
+      "hex": "50 4B 05 06",
+      "description": "zip file format and formats based on it, such asJAR,ODF,OOXML (empty archive)"
+    },
+    {
+      "file_extension": "odp",
+      "offset": "0",
+      "ascii": "PK..",
+      "hex": "50 4B 07 08",
+      "description": "zip file format and formats based on it, such asJAR,ODF,OOXML (spanned archive)"
+    }
+  ],
+  "docx": [
+    {
+      "file_extension": "docx",
+      "offset": "0",
+      "ascii": "PK..",
+      "hex": "50 4B 03 04",
+      "description": "zip file format and formats based on it, such asJAR,ODF,OOXML"
+    },
+    {
+      "file_extension": "docx",
+      "offset": "0",
+      "ascii": "PK..",
+      "hex": "50 4B 05 06",
+      "description": "zip file format and formats based on it, such asJAR,ODF,OOXML (empty archive)"
+    },
+    {
+      "file_extension": "docx",
+      "offset": "0",
+      "ascii": "PK..",
+      "hex": "50 4B 07 08",
+      "description": "zip file format and formats based on it, such asJAR,ODF,OOXML (spanned archive)"
+    }
+  ],
+  "xlsx": [
+    {
+      "file_extension": "xlsx",
+      "offset": "0",
+      "ascii": "PK..",
+      "hex": "50 4B 03 04",
+      "description": "zip file format and formats based on it, such asJAR,ODF,OOXML"
+    },
+    {
+      "file_extension": "xlsx",
+      "offset": "0",
+      "ascii": "PK..",
+      "hex": "50 4B 05 06",
+      "description": "zip file format and formats based on it, such asJAR,ODF,OOXML (empty archive)"
+    },
+    {
+      "file_extension": "xlsx",
+      "offset": "0",
+      "ascii": "PK..",
+      "hex": "50 4B 07 08",
+      "description": "zip file format and formats based on it, such asJAR,ODF,OOXML (spanned archive)"
+    }
+  ],
+  "pptx": [
+    {
+      "file_extension": "pptx",
+      "offset": "0",
+      "ascii": "PK..",
+      "hex": "50 4B 03 04",
+      "description": "zip file format and formats based on it, such asJAR,ODF,OOXML"
+    },
+    {
+      "file_extension": "pptx",
+      "offset": "0",
+      "ascii": "PK..",
+      "hex": "50 4B 05 06",
+      "description": "zip file format and formats based on it, such asJAR,ODF,OOXML (empty archive)"
+    },
+    {
+      "file_extension": "pptx",
+      "offset": "0",
+      "ascii": "PK..",
+      "hex": "50 4B 07 08",
+      "description": "zip file format and formats based on it, such asJAR,ODF,OOXML (spanned archive)"
+    }
+  ],
+  "vsdx": [
+    {
+      "file_extension": "vsdx",
+      "offset": "0",
+      "ascii": "PK..",
+      "hex": "50 4B 03 04",
+      "description": "zip file format and formats based on it, such asJAR,ODF,OOXML"
+    },
+    {
+      "file_extension": "vsdx",
+      "offset": "0",
+      "ascii": "PK..",
+      "hex": "50 4B 05 06",
+      "description": "zip file format and formats based on it, such asJAR,ODF,OOXML (empty archive)"
+    },
+    {
+      "file_extension": "vsdx",
+      "offset": "0",
+      "ascii": "PK..",
+      "hex": "50 4B 07 08",
+      "description": "zip file format and formats based on it, such asJAR,ODF,OOXML (spanned archive)"
+    }
+  ],
+  "apk": [
+    {
+      "file_extension": "apk",
+      "offset": "0",
+      "ascii": "PK..",
+      "hex": "50 4B 03 04",
+      "description": "zip file format and formats based on it, such asJAR,ODF,OOXML"
+    },
+    {
+      "file_extension": "apk",
+      "offset": "0",
+      "ascii": "PK..",
+      "hex": "50 4B 05 06",
+      "description": "zip file format and formats based on it, such asJAR,ODF,OOXML (empty archive)"
+    },
+    {
+      "file_extension": "apk",
+      "offset": "0",
+      "ascii": "PK..",
+      "hex": "50 4B 07 08",
+      "description": "zip file format and formats based on it, such asJAR,ODF,OOXML (spanned archive)"
+    }
+  ],
+  "rar": [
+    {
+      "file_extension": "rar",
+      "offset": "0",
+      "ascii": "Rar!...",
+      "hex": "52 61 72 21 1A 07 00",
+      "description": "RAR archive version 1.50 onwards"
+    },
+    {
+      "file_extension": "rar",
+      "offset": "0",
+      "ascii": "Rar!....",
+      "hex": "52 61 72 21 1A 07 01 00",
+      "description": "RAR archive version 5.0 onwards"
+    }
+  ],
+  "png": [
+    {
+      "file_extension": "png",
+      "offset": "0",
+      "ascii": ".PNG....",
+      "hex": "89 50 4E 47 0D 0A 1A 0A",
+      "description": "Image encoded in thePortable Network Graphics format"
+    }
+  ],
+  "class": [
+    {
+      "file_extension": "class",
+      "offset": "0",
+      "ascii": "Êþº¾",
+      "hex": "CA FE BA BE",
+      "description": "Java class file,Mach-O Fat Binary"
+    }
+  ],
+  "ps": [
+    {
+      "file_extension": "ps",
+      "offset": "0",
+      "ascii": "%!PS",
+      "hex": "25 21 50 53",
+      "description": "PostScript document"
+    }
+  ],
+  "pdf": [
+    {
+      "file_extension": "pdf",
+      "offset": "0",
+      "ascii": "%PDF",
+      "hex": "25 50 44 46",
+      "description": "PDF document"
+    }
+  ],
+  "asf": [
+    {
+      "file_extension": "asf",
+      "offset": "0",
+      "ascii": "0&²u.fÏ .¦Ù.ª.bÎl",
+      "hex": "30 26 B2 75 8E 66 CF 11 A6 D9 00 AA 00 62 CE 6C",
+      "description": "Advanced Systems Format"
+    }
+  ],
+  "wma": [
+    {
+      "file_extension": "wma",
+      "offset": "0",
+      "ascii": "0&²u.fÏ .¦Ù.ª.bÎl",
+      "hex": "30 26 B2 75 8E 66 CF 11 A6 D9 00 AA 00 62 CE 6C",
+      "description": "Advanced Systems Format"
+    }
+  ],
+  "wmv": [
+    {
+      "file_extension": "wmv",
+      "offset": "0",
+      "ascii": "0&²u.fÏ .¦Ù.ª.bÎl",
+      "hex": "30 26 B2 75 8E 66 CF 11 A6 D9 00 AA 00 62 CE 6C",
+      "description": "Advanced Systems Format"
+    }
+  ],
+  "ogg": [
+    {
+      "file_extension": "ogg",
+      "offset": "0",
+      "ascii": "OggS",
+      "hex": "4F 67 67 53",
+      "description": "Ogg, anopen source media container format"
+    }
+  ],
+  "oga": [
+    {
+      "file_extension": "oga",
+      "offset": "0",
+      "ascii": "OggS",
+      "hex": "4F 67 67 53",
+      "description": "Ogg, anopen source media container format"
+    }
+  ],
+  "ogv": [
+    {
+      "file_extension": "ogv",
+      "offset": "0",
+      "ascii": "OggS",
+      "hex": "4F 67 67 53",
+      "description": "Ogg, anopen source media container format"
+    }
+  ],
+  "psd": [
+    {
+      "file_extension": "psd",
+      "offset": "0",
+      "ascii": "8BPS",
+      "hex": "38 42 50 53",
+      "description": "Photoshop Document file,Adobe Photoshop's native file format"
+    }
+  ],
+  "wav": [
+    {
+      "file_extension": "wav",
+      "offset": "0",
+      "ascii": "RIFF.... WAVE",
+      "hex": "52 49 46 46 nn nn nn nn 57 41 56 45",
+      "description": "Waveform Audio File Format"
+    }
+  ],
+  "avi": [
+    {
+      "file_extension": "avi",
+      "offset": "0",
+      "ascii": "RIFF.... AVI.",
+      "hex": "52 49 46 46 nn nn nn nn 41 56 49 20",
+      "description": "Audio Video Interleave video format"
+    }
+  ],
+  "mp3": [
+    {
+      "file_extension": "mp3",
+      "offset": "0",
+      "ascii": "ÿû",
+      "hex": "FF FB",
+      "description": "MPEG-1 Layer 3 file without anID3 tag or with anID3v1 tag (which's appended at the end of the file)"
+    },
+    {
+      "file_extension": "mp3",
+      "offset": "0",
+      "ascii": "ID3",
+      "hex": "49 44 33",
+      "description": "MP3 file with an ID3v2 container"
+    }
+  ],
+  "bmp": [
+    {
+      "file_extension": "bmp",
+      "offset": "0",
+      "ascii": "BM",
+      "hex": "42 4D",
+      "description": "BMP file, abitmap format used mostly in theWindows world"
+    },
+    {
+      "file_extension": "bmp",
+      "offset": "0",
+      "ascii": "BM",
+      "hex": "42 4D",
+      "description": "BMP file, abitmap format used mostly in theWindows world"
+    }
+  ],
+  "dib": [
+    {
+      "file_extension": "dib",
+      "offset": "0",
+      "ascii": "BM",
+      "hex": "42 4D",
+      "description": "BMP file, abitmap format used mostly in theWindows world"
+    },
+    {
+      "file_extension": "dib",
+      "offset": "0",
+      "ascii": "BM",
+      "hex": "42 4D",
+      "description": "BMP file, abitmap format used mostly in theWindows world"
+    }
+  ],
+  "iso": [
+    {
+      "file_extension": "iso",
+      "offset": "0x8001",
+      "ascii": "CD001",
+      "hex": "43 44 30 30 31",
+      "description": "ISO9660 CD/DVD image file"
+    },
+    {
+      "file_extension": "iso",
+      "offset": "0x8801",
+      "ascii": "CD001",
+      "hex": "43 44 30 30 31",
+      "description": "ISO9660 CD/DVD image file"
+    },
+    {
+      "file_extension": "iso",
+      "offset": "0x9001",
+      "ascii": "CD001",
+      "hex": "43 44 30 30 31",
+      "description": "ISO9660 CD/DVD image file"
+    }
+  ],
+  "fits": [
+    {
+      "file_extension": "fits",
+      "offset": "0",
+      "ascii": "SIMPLE   =         T",
+      "hex": "53 49 4D 50 4C 45 20 20 3D 20 20 20 20 20 20 20 20 20 20 20 20 20 2020 20 20 20 20 20 54",
+      "description": "Flexible Image Transport System (FITS)"
+    }
+  ],
+  "flac": [
+    {
+      "file_extension": "flac",
+      "offset": "0",
+      "ascii": "fLaC",
+      "hex": "66 4C 61 43",
+      "description": "Free Lossless Audio Codec"
+    }
+  ],
+  "mid": [
+    {
+      "file_extension": "mid",
+      "offset": "0",
+      "ascii": "MThd",
+      "hex": "4D 54 68 64",
+      "description": "MIDI sound file"
+    }
+  ],
+  "midi": [
+    {
+      "file_extension": "midi",
+      "offset": "0",
+      "ascii": "MThd",
+      "hex": "4D 54 68 64",
+      "description": "MIDI sound file"
+    }
+  ],
+  "doc": [
+    {
+      "file_extension": "doc",
+      "offset": "",
+      "ascii": "",
+      "hex": "D0 CF 11 E0 A1 B1 1A E1",
+      "description": "Compound File Binary Format, a container format used for document by older versions ofMicrosoft Office.It is however an open format used by other programs as well."
+    }
+  ],
+  "xls": [
+    {
+      "file_extension": "xls",
+      "offset": "",
+      "ascii": "",
+      "hex": "D0 CF 11 E0 A1 B1 1A E1",
+      "description": "Compound File Binary Format, a container format used for document by older versions ofMicrosoft Office.It is however an open format used by other programs as well."
+    }
+  ],
+  "ppt": [
+    {
+      "file_extension": "ppt",
+      "offset": "",
+      "ascii": "",
+      "hex": "D0 CF 11 E0 A1 B1 1A E1",
+      "description": "Compound File Binary Format, a container format used for document by older versions ofMicrosoft Office.It is however an open format used by other programs as well."
+    }
+  ],
+  "msg": [
+    {
+      "file_extension": "msg",
+      "offset": "",
+      "ascii": "",
+      "hex": "D0 CF 11 E0 A1 B1 1A E1",
+      "description": "Compound File Binary Format, a container format used for document by older versions ofMicrosoft Office.It is however an open format used by other programs as well."
+    }
+  ],
+  "dex": [
+    {
+      "file_extension": "dex",
+      "offset": "0",
+      "ascii": "dex.035.",
+      "hex": "64 65 78 0A 30 33 35 00",
+      "description": "Dalvik Executable"
+    }
+  ],
+  "vmdk": [
+    {
+      "file_extension": "vmdk",
+      "offset": "0",
+      "ascii": "KDM",
+      "hex": "4B 44 4D",
+      "description": "VMDK files"
+    }
+  ],
+  "crx": [
+    {
+      "file_extension": "crx",
+      "offset": "0",
+      "ascii": "Cr24",
+      "hex": "43 72 32 34",
+      "description": "Google Chrome extensionor packaged app"
+    }
+  ],
+  "fh8": [
+    {
+      "file_extension": "fh8",
+      "offset": "0",
+      "ascii": "AGD3",
+      "hex": "41 47 44 33",
+      "description": "FreeHand 8 document"
+    }
+  ],
+  "cwk": [
+    {
+      "file_extension": "cwk",
+      "offset": "0",
+      "ascii": "....BOBO ........ ....",
+      "hex": "05 07 00 00 42 4F 42 4F 05 07 00 00 00 00 00 00 00 00 00 00 00 01",
+      "description": "AppleWorks 5 document"
+    },
+    {
+      "file_extension": "cwk",
+      "offset": "0",
+      "ascii": "....BOBO ........ ....",
+      "hex": "06 07 E1 00 42 4F 42 4F 06 07 E1 00 00 00 00 00 00 00 00 00 00 01",
+      "description": "AppleWorks 6 document"
+    }
+  ],
+  "toast": [
+    {
+      "file_extension": "toast",
+      "offset": "0",
+      "ascii": "ER....ãER....",
+      "hex": "45 52 02 00 00 00 8B 45 52 02 00 00 00",
+      "description": "RoxioToast disc image file, also some .dmg-files begin with same bytes"
+    }
+  ],
+  "dmg": [
+    {
+      "file_extension": "dmg",
+      "offset": "0",
+      "ascii": "x.s.bb`",
+      "hex": "78 01 73 0D 62 62 60",
+      "description": "Apple Disk Image file"
+    }
+  ],
+  "xar": [
+    {
+      "file_extension": "xar",
+      "offset": "0",
+      "ascii": "xar!",
+      "hex": "78 61 72 21",
+      "description": "eXtensible Archive format"
+    }
+  ],
+  "dat": [
+    {
+      "file_extension": "dat",
+      "offset": "0",
+      "ascii": "PMOCCMOC",
+      "hex": "50 4D 4F 43 43 4D 4F 43",
+      "description": "Windows Files And Settings Transfer Repository, See also USMT 3.0 (Win XP) and USMT 4.0 (Win 7) User Guides"
+    }
+  ],
+  "nes": [
+    {
+      "file_extension": "nes",
+      "offset": "0",
+      "ascii": "NES",
+      "hex": "4E 45 53 1A",
+      "description": "Nintendo Entertainment System ROM file"
+    }
+  ],
+  "tar": [
+    {
+      "file_extension": "tar",
+      "offset": "0x101",
+      "ascii": "ustar.00ustar  .",
+      "hex": "75 73 74 61 72 00 30 30 75 73 74 61 72 20 20 00",
+      "description": "tar archive"
+    }
+  ],
+  "tox": [
+    {
+      "file_extension": "tox",
+      "offset": "0",
+      "ascii": "TOX",
+      "hex": "74 6F 78 33",
+      "description": "Open source portable voxel file"
+    }
+  ],
+  "mlv": [
+    {
+      "file_extension": "MLV",
+      "offset": "0",
+      "ascii": "MLVI",
+      "hex": "4D 4C 56 49",
+      "description": "Magic Lantern Video file"
+    }
+  ],
+  "7z": [
+    {
+      "file_extension": "7z",
+      "offset": "0",
+      "ascii": "7z¼¯'",
+      "hex": "37 7A BC AF 27 1C",
+      "description": "7-Zip File Format"
+    }
+  ],
+  "gz": [
+    {
+      "file_extension": "gz",
+      "offset": "0",
+      "ascii": "..",
+      "hex": "1F 8B",
+      "description": "GZIP"
+    }
+  ],
+  "tar.gz": [
+    {
+      "file_extension": "tar.gz",
+      "offset": "0",
+      "ascii": "..",
+      "hex": "1F 8B",
+      "description": "GZIP"
+    }
+  ],
+  "lz4": [
+    {
+      "file_extension": "lz4",
+      "offset": "0",
+      "ascii": ".\"M.",
+      "hex": "04 22 4D 18",
+      "description": "LZ4 Frame Format, LZ4 block format does not offer any magic bytes."
+    }
+  ],
+  "cab": [
+    {
+      "file_extension": "cab",
+      "offset": "0",
+      "ascii": "MSCF",
+      "hex": "4D 53 43 46",
+      "description": "Microsoft Cabinet file"
+    }
+  ],
+  "flif": [
+    {
+      "file_extension": "flif",
+      "offset": "0",
+      "ascii": "FLIF",
+      "hex": "46 4C 49 46",
+      "description": "Free Lossless Image Format"
+    }
+  ],
+  "mkv": [
+    {
+      "file_extension": "mkv",
+      "offset": "0",
+      "ascii": ".Eß£",
+      "hex": "1A 45 DF A3",
+      "description": "Matroska media container, includingWebM"
+    }
+  ],
+  "mka": [
+    {
+      "file_extension": "mka",
+      "offset": "0",
+      "ascii": ".Eß£",
+      "hex": "1A 45 DF A3",
+      "description": "Matroska media container, includingWebM"
+    }
+  ],
+  "mks": [
+    {
+      "file_extension": "mks",
+      "offset": "0",
+      "ascii": ".Eß£",
+      "hex": "1A 45 DF A3",
+      "description": "Matroska media container, includingWebM"
+    }
+  ],
+  "mk3d": [
+    {
+      "file_extension": "mk3d",
+      "offset": "0",
+      "ascii": ".Eß£",
+      "hex": "1A 45 DF A3",
+      "description": "Matroska media container, includingWebM"
+    }
+  ],
+  "webm": [
+    {
+      "file_extension": "webm",
+      "offset": "0",
+      "ascii": ".Eß£",
+      "hex": "1A 45 DF A3",
+      "description": "Matroska media container, includingWebM"
+    }
+  ],
+  "stg": [
+    {
+      "file_extension": "stg",
+      "offset": "0",
+      "ascii": "MIL",
+      "hex": "4D 49 4C 20",
+      "description": "\"SEAN : Session Analysis\" Training file. Also used in compatible software \"Rpw :Rowperfect for Windows\" and \"RP3W : ROWPERFECT3 for Windows\"."
+    }
+  ],
+  "['djvu', 'djv']": [
+    {
+      "file_extension": "['djvu', 'djv']",
+      "offset": "0",
+      "ascii": "AT&TFORM....DJV",
+      "hex": "41 54 26 54 46 4F 52 4D nn nn nn nn 44 4A 56",
+      "description": "DjVu document. The following byte is either55 (U) for single-page or4D (M) for multi-page documents."
+    }
+  ],
+  "djvu": [
+    {
+      "file_extension": "djvu",
+      "offset": "0",
+      "ascii": "AT&TFORM....DJV",
+      "hex": "41 54 26 54 46 4F 52 4D nn nn nn nn 44 4A 56",
+      "description": "DjVu document. The following byte is either55 (U) for single-page or4D (M) for multi-page documents."
+    }
+  ],
+  "djv": [
+    {
+      "file_extension": "djv",
+      "offset": "0",
+      "ascii": "AT&TFORM....DJV",
+      "hex": "41 54 26 54 46 4F 52 4D nn nn nn nn 44 4A 56",
+      "description": "DjVu document. The following byte is either55 (U) for single-page or4D (M) for multi-page documents."
+    }
+  ],
+  "der": [
+    {
+      "file_extension": "der",
+      "offset": "0",
+      "ascii": "0.",
+      "hex": "30 82",
+      "description": "DER encoded X.509 certificate"
+    }
+  ],
+  "dcm": [
+    {
+      "file_extension": "dcm",
+      "offset": "0x80",
+      "ascii": "DICM",
+      "hex": "44 49 43 4D",
+      "description": "DICOM Medical File Format"
+    }
+  ],
+  "woff": [
+    {
+      "file_extension": "woff",
+      "offset": "0",
+      "ascii": "wOFF",
+      "hex": "77 4F 46 46",
+      "description": "WOFF File Format 1.0"
+    }
+  ],
+  "woff2": [
+    {
+      "file_extension": "woff2",
+      "offset": "0",
+      "ascii": "wOF2",
+      "hex": "77 4F 46 32",
+      "description": "WOFF File Format 2.0"
+    }
+  ],
+  "xml": [
+    {
+      "file_extension": "XML",
+      "offset": "0",
+      "ascii": "<?xml",
+      "hex": "3c 3f 78 6d 6c 20",
+      "description": "eXtensible Markup Language when using theASCII character encoding"
+    }
+  ],
+  "wasm": [
+    {
+      "file_extension": "wasm",
+      "offset": "0",
+      "ascii": "\\0asm",
+      "hex": "6d 73 61 00",
+      "description": "WebAssembly binary format"
+    }
+  ],
+  "lep": [
+    {
+      "file_extension": "lep",
+      "offset": "0",
+      "ascii": "",
+      "hex": "cf 84 01",
+      "description": "Lepton compressed JPEG image"
+    }
+  ],
+  "swf": [
+    {
+      "file_extension": "swf",
+      "offset": "0",
+      "ascii": "CWS",
+      "hex": "43 57 53",
+      "description": "flash .swf"
+    },
+    {
+      "file_extension": "swf",
+      "offset": "0",
+      "ascii": "EWS",
+      "hex": "46 57 53",
+      "description": "flash .swf"
+    }
+  ],
+  "deb": [
+    {
+      "file_extension": "deb",
+      "offset": "0",
+      "ascii": "!<arch>.",
+      "hex": "21 3C 61 72 63 68 3E",
+      "description": "linux deb file"
+    }
+  ],
+  "webp": [
+    {
+      "file_extension": "webp",
+      "offset": "0",
+      "ascii": "RIFF....",
+      "hex": "52 49 46 46 nn nn nn nn",
+      "description": "Google WebP image file"
+    }
+  ]
+}
