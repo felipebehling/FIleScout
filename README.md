@@ -94,5 +94,3 @@ If you want to add new file signatures, simply update the `magic_bytes.json` fil
 ## 📝 License
 
 Distributed under the GNU General Public License. See `LICENSE` for more information.
-
-```
