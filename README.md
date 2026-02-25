@@ -96,7 +96,3 @@ If you want to add new file signatures, simply update the `magic_bytes.json` fil
 Distributed under the GNU General Public License. See `LICENSE` for more information.
 
 ```
-
-Gostaria que eu traduzisse o conteúdo desse `README.md` para o português ou que eu ajudasse a criar uma estrutura base para o seu arquivo `magic_bytes.json`?
-
-```
